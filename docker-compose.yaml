@@ -1,0 +1,3 @@
+services:
+  docker-desktop-health-init:
+    image: ${DESKTOP_PLUGIN_IMAGE}
